@@ -19,4 +19,4 @@ fork this file and pull requests
 
 ###Copyright
 
-2021
+2021 all rights reserved
