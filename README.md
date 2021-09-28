@@ -14,6 +14,8 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
+fork this file and pull requests
+
 ###Copyright
 
 2021
